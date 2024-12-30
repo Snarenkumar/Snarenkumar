@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Naren!
 
-<p align="center">
-  <img src="https://drive.google.com/drive/u/0/my-drive" alt="Demo Video" width="600">
-</p>
+<img src="https://drive.google.com/uc?export=view&id=1KD60LUZw98ktInAJcb9ivElK0W8dEFgS" alt="Image Description" />
+
 
 Welcome to my GitHub profile! I'm a passionate web developer and engineer with a love for learning and building projects using the latest technologies. Below you'll find an overview of my skills, projects, and how you can get in touch with me.
 
