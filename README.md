@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naren!
 
-<img src="https://drive.google.com/uc?export=view&id=1KD60LUZw98ktInAJcb9ivElK0W8dEFgS" alt="Image Description" />
+<img src="https://drive.google.com/uc?id=1KD60LUZw98ktInAJcb9ivElK0W8dEFgS" alt="Project Screenshot" />
 
 
 Welcome to my GitHub profile! I'm a passionate web developer and engineer with a love for learning and building projects using the latest technologies. Below you'll find an overview of my skills, projects, and how you can get in touch with me.
