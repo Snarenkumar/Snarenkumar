@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Naren!
 
-<img src="https://drive.google.com/uc?id=1KD60LUZw98ktInAJcb9ivElK0W8dEFgS" alt="Project Screenshot" />
+# About Me
+
+![Naren Kumar](https://github.com/Snarenkumar/Snarenkumar/blob/main/naren%20kumar.jpeg?raw=true)
+
 
 
 Welcome to my GitHub profile! I'm a passionate web developer and engineer with a love for learning and building projects using the latest technologies. Below you'll find an overview of my skills, projects, and how you can get in touch with me.
