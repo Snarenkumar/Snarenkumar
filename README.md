@@ -4,8 +4,6 @@
 
 ![Naren Kumar](https://github.com/Snarenkumar/Snarenkumar/blob/main/naren%20kumar.jpeg?raw=true)
 
-
-
 Welcome to my GitHub profile! I'm a passionate web developer and engineer with a love for learning and building projects using the latest technologies. Below you'll find an overview of my skills, projects, and how you can get in touch with me.
 
 ## 🌐 Socials:
@@ -36,15 +34,15 @@ I'm an engineering student with a deep interest in **web development** and **pro
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Snarenkumar&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Snarenkumar&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snarenkumar&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Snarenkumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-readme-stats.vercel.app/api?username=Snarenkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Snarenkumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snarenkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Snarenkumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌟 Projects:
 Here are some of the projects I've worked on:
@@ -58,7 +56,6 @@ Feel free to check them out and explore the code!
 ## 📫 How to Reach Me:
 - Email: [snarenkumar30@gmail.com]
 - LinkedIn: [Naren's LinkedIn](https://www.linkedin.com/in/s-naren-kumar-1b2471280/)
-
 
 ---
 
