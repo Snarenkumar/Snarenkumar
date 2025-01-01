@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naren!
 
-# About Me
+## About Me
 
 ![Naren Kumar](https://github.com/Snarenkumar/Snarenkumar/blob/main/naren%20kumar.jpeg?raw=true)
 
