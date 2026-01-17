@@ -43,14 +43,8 @@ I'm an engineering student with a deep interest in **web development** and **pro
 
 [![](https://visitcount.itsvg.in/api?id=Snarenkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🌟 Projects:
-Here are some of the projects I've worked on:
 
-- **[Django To-Do List](https://narenkumar3098.pythonanywhere.com/)**: A simple to-do list application using Django.
-- **[Spotify Login Form](https://narensporttify.pythonanywhere.com/)**: A Spotify-inspired login page with authentication.
-- **[Portfolio Website](https://portfolio-website-gold-phi.vercel.app/)**: My personal portfolio to showcase my skills, projects, and resume.
 
 Feel free to check them out and explore the code!
 
